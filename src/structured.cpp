@@ -9,6 +9,7 @@
 
  ************************************************************************/
 
+#include <algorithm>
 #include <stack>
 #include <vector>
 #include <cstdio>

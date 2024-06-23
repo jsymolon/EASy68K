@@ -1,0 +1,130 @@
+
+J	cpp:S1135Ş"4Complete the task associated to this "TODO" comment.(ô‹ØÓ
+J	cpp:S1135ˆ"4Complete the task associated to this "TODO" comment.(Òöñ³
+J	cpp:S1135"4Complete the task associated to this "TODO" comment.(Ã€Æ
+J	cpp:S1135’"4Complete the task associated to this "TODO" comment.(“¿Õ¼
+I	cpp:S1135—"4Complete the task associated to this "TODO" comment.(ÇÛÎ
+J	cpp:S1135"4Complete the task associated to this "TODO" comment.(ü÷—
+J	cpp:S1135¢"4Complete the task associated to this "TODO" comment.(Õ¤Î‘
+J	cpp:S1135§"4Complete the task associated to this "TODO" comment.(óë‹Ì
+O	cpp:S1135¬"4Complete the task associated to this "TODO" comment.(ôÈ÷€øÿÿÿÿ
+O	cpp:S1135±"4Complete the task associated to this "TODO" comment.(Ğíª©üÿÿÿÿ
+I	cpp:S1135¶"4Complete the task associated to this "TODO" comment.(°©åt
+O	cpp:S1135»"4Complete the task associated to this "TODO" comment.(·Ú¨§ûÿÿÿÿ
+O	cpp:S1135À"4Complete the task associated to this "TODO" comment.(Œ°÷îüÿÿÿÿ
+O	cpp:S1135Å"4Complete the task associated to this "TODO" comment.(—Ì„Ğøÿÿÿÿ
+O	cpp:S1135Ê"4Complete the task associated to this "TODO" comment.(ÕèÁäùÿÿÿÿ
+J	cpp:S1135Ï"4Complete the task associated to this "TODO" comment.(äñïä
+J	cpp:S1135Õ"4Complete the task associated to this "TODO" comment.(…ïœ†
+O	cpp:S1135ò"4Complete the task associated to this "TODO" comment.(Ş–ÔÂúÿÿÿÿ
+J	cpp:S1135÷"4Complete the task associated to this "TODO" comment.(ŠªÅ«
+I	cpp:S1135ü"4Complete the task associated to this "TODO" comment.(“ôµZ
+J	cpp:S1135"4Complete the task associated to this "TODO" comment.(ƒúäŠ
+O	cpp:S1135†"4Complete the task associated to this "TODO" comment.(‚ó‚€ıÿÿÿÿ
+O	cpp:S1135‹"4Complete the task associated to this "TODO" comment.(­Ô»Æıÿÿÿÿ
+I	cpp:S1135"4Complete the task associated to this "TODO" comment.(ü¨–z
+J	cpp:S1135•"4Complete the task associated to this "TODO" comment.(™÷€ö
+J	cpp:S1135š"4Complete the task associated to this "TODO" comment.(«íÂú
+}	cpp:S3230?"cDo not assign data members in a constructor. Initialize member "easy68k" in an initialization list.(¬¥“¢şÿÿÿÿ
+G	cpp:S3630>"2Replace "reinterpret_cast" with a safer operation.(ÿªë
+H	cpp:S1238I"3Pass large object "filename" by reference to const.(¦»ç
+E	cpp:S1238I"0Pass large object "label" by reference to const.(¦»ç
+f	cpp:S5025Y"QReplace the use of "new" with an operation that automatically manages the memory.(õ ¥Í
+k	cpp:S5025u"QReplace the use of "new" with an operation that automatically manages the memory.(ÔŠïûÿÿÿÿ
+f	cpp:S5025w"QReplace the use of "new" with an operation that automatically manages the memory.(áãô
+l	cpp:S5025†"QReplace the use of "new" with an operation that automatically manages the memory.(Œµ‘¦üÿÿÿÿ
+g	cpp:S5025˜"QReplace the use of "new" with an operation that automatically manages the memory.(ªö
+g	cpp:S5025œ"QReplace the use of "new" with an operation that automatically manages the memory.(•ó¬
+g	cpp:S5025¤"QReplace the use of "new" with an operation that automatically manages the memory.(ÿ¸‘¢
+l	cpp:S5025­"QReplace the use of "new" with an operation that automatically manages the memory.(ú‡‘Úûÿÿÿÿ
+B	cpp:S5827¸"'Replace the redundant type with "auto".(¡é´¸ÿÿÿÿÿ
+l	cpp:S5025¸"QReplace the use of "new" with an operation that automatically manages the memory.(¡é´¸ÿÿÿÿÿ
+l	cpp:S5025º"QReplace the use of "new" with an operation that automatically manages the memory.(ÛùÜüÿÿÿÿ
+l	cpp:S5025¾"QReplace the use of "new" with an operation that automatically manages the memory.(ÅŞÇ¿ÿÿÿÿÿ
+t	cpp:S1172Æ"YRemove the unused parameter "props_p", make it unnamed, or declare it "[[maybe_unused]]".(ûß¹ùøÿÿÿÿ
+o	cpp:S1186Ì"YAdd a nested comment explaining why this method is empty, or complete the implementation.(•ÚÇÔ
+?	cpp:S5817Ì")This function should be declared "const".(•ÚÇÔ
+m	cpp:S1172Ì"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(•ÚÇÔ
+ƒcpp:S995Ì"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(•ÚÇÔ
+m	cpp:S1172Ğ"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(øˆÜ­
+ƒcpp:S995Ğ"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(øˆÜ­
+O	cpp:S1181è"9Catch a more specific exception instead of a generic one.(¿Î†Ş
+r	cpp:S1172ï"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(‹ô€ÿûÿÿÿÿ
+ˆcpp:S995ï"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(‹ô€ÿûÿÿÿÿ
+m	cpp:S1172ú"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(Íı¶
+ƒcpp:S995ú"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(Íı¶
+D	cpp:S5817‡")This function should be declared "const".(÷¦ù¯ÿÿÿÿÿ
+r	cpp:S1172‡"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(÷¦ù¯ÿÿÿÿÿ
+ˆcpp:S995‡"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(÷¦ù¯ÿÿÿÿÿ
+D	cpp:S5817Œ")This function should be declared "const".(›É½§şÿÿÿÿ
+r	cpp:S1172Œ"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(›É½§şÿÿÿÿ
+ˆcpp:S995Œ"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(›É½§şÿÿÿÿ
+?	cpp:S5817‘")This function should be declared "const".(¨§üÓ
+m	cpp:S1172‘"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(¨§üÓ
+ƒcpp:S995‘"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(¨§üÓ
+m	cpp:S1172–"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(œÔÔÌ
+ƒcpp:S995–"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(œÔÔÌ
+D	cpp:S5817œ")This function should be declared "const".(æŸ¤Öşÿÿÿÿ
+r	cpp:S1172œ"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(æŸ¤Öşÿÿÿÿ
+ˆcpp:S995œ"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(æŸ¤Öşÿÿÿÿ
+D	cpp:S5817¡")This function should be declared "const".(“úÄŒúÿÿÿÿ
+r	cpp:S1172¡"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(“úÄŒúÿÿÿÿ
+ˆcpp:S995¡"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(“úÄŒúÿÿÿÿ
+D	cpp:S5817¦")This function should be declared "const".(÷åëÿÿÿÿÿ
+r	cpp:S1172¦"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(÷åëÿÿÿÿÿ
+ˆcpp:S995¦"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(÷åëÿÿÿÿÿ
+?	cpp:S5817«")This function should be declared "const".(ã˜Û¡
+m	cpp:S1172«"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(ã˜Û¡
+ƒcpp:S995«"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(ã˜Û¡
+?	cpp:S5817°")This function should be declared "const".(Ôíû´
+m	cpp:S1172°"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(Ôíû´
+ƒcpp:S995°"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(Ôíû´
+?	cpp:S5817µ")This function should be declared "const".(†‰³À
+m	cpp:S1172µ"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(†‰³À
+ƒcpp:S995µ"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(†‰³À
+D	cpp:S5817º")This function should be declared "const".(ª Şüÿÿÿÿ
+r	cpp:S1172º"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(ª Şüÿÿÿÿ
+ˆcpp:S995º"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(ª Şüÿÿÿÿ
+D	cpp:S5817¿")This function should be declared "const".(’¢ÏÎúÿÿÿÿ
+r	cpp:S1172¿"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(’¢ÏÎúÿÿÿÿ
+ˆcpp:S995¿"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(’¢ÏÎúÿÿÿÿ
+D	cpp:S5817Ä")This function should be declared "const".(ù¼Õ¶şÿÿÿÿ
+r	cpp:S1172Ä"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(ù¼Õ¶şÿÿÿÿ
+ˆcpp:S995Ä"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(ù¼Õ¶şÿÿÿÿ
+D	cpp:S5817É")This function should be declared "const".(ÛÚı˜øÿÿÿÿ
+r	cpp:S1172É"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(ÛÚı˜øÿÿÿÿ
+ˆcpp:S995É"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(ÛÚı˜øÿÿÿÿ
+?	cpp:S5817Î")This function should be declared "const".(ü§¸ë
+m	cpp:S1172Î"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(ü§¸ë
+ƒcpp:S995Î"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(ü§¸ë
+>	cpp:S5817ñ")This function should be declared "const".(ÑÁÆ#
+l	cpp:S1172ñ"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(ÑÁÆ#
+‚cpp:S995ñ"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(ÑÁÆ#
+D	cpp:S5817ö")This function should be declared "const".(¼¡ã±ÿÿÿÿÿ
+r	cpp:S1172ö"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(¼¡ã±ÿÿÿÿÿ
+ˆcpp:S995ö"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(¼¡ã±ÿÿÿÿÿ
+D	cpp:S5817û")This function should be declared "const".(ÿ£šúÿÿÿÿ
+r	cpp:S1172û"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(ÿ£šúÿÿÿÿ
+ˆcpp:S995û"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(ÿ£šúÿÿÿÿ
+?	cpp:S5817€")This function should be declared "const".(ºÌ•ø
+m	cpp:S1172€"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(ºÌ•ø
+ƒcpp:S995€"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(ºÌ•ø
+?	cpp:S5817…")This function should be declared "const".(€Û¹›
+m	cpp:S1172…"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(€Û¹›
+ƒcpp:S995…"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(€Û¹›
+D	cpp:S5817Š")This function should be declared "const".(©‡ä°ùÿÿÿÿ
+r	cpp:S1172Š"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(©‡ä°ùÿÿÿÿ
+ˆcpp:S995Š"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(©‡ä°ùÿÿÿÿ
+D	cpp:S5817")This function should be declared "const".(Öú€ùÿÿÿÿ
+r	cpp:S1172"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(Öú€ùÿÿÿÿ
+ˆcpp:S995"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(Öú€ùÿÿÿÿ
+D	cpp:S5817”")This function should be declared "const".(ÂÙˆ’üÿÿÿÿ
+r	cpp:S1172”"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(ÂÙˆ’üÿÿÿÿ
+ˆcpp:S995”"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(ÂÙˆ’üÿÿÿÿ
+?	cpp:S5817™")This function should be declared "const".(¹‡
+m	cpp:S1172™"WRemove the unused parameter "event", make it unnamed, or declare it "[[maybe_unused]]".(¹‡
+ƒcpp:S995™"nMake the type of this parameter a reference-to-const. The current type of "event" is "class wxCommandEvent &".(¹‡
+2cpp:S125D"Remove the commented out code.(‹÷ÒÛ
+7cpp:S125Q"Remove the commented out code.(ƒµÖ‚şÿÿÿÿ
+8cpp:S125À"Remove the commented out code.(Ç­ƒĞüÿÿÿÿ
+3cpp:S125í"Remove the commented out code.(Á˜ 

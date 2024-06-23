@@ -1,0 +1,60 @@
+
+u	cpp:S1135ƒ"4Complete the task associated to this "TODO" comment.(Ú ÚìÿÿÿÿÿJ$ad803069-de81-44d5-bea0-0723ee28ee5f
+X	cpp:S1117ª"6declaration shadows a variable in the global namespace(Ú“Óßüÿÿÿÿ8é…Š­„2
+5	cpp:S1481¯"unused variable 'symbol'(ñÌ½á8ï…Š­„2
+X	cpp:S1481±"unused variable 'value'(âëê¡ıÿÿÿÿJ$da6d5bdf-f68f-4585-9968-66fc88848c97
+6	cpp:S1481²"unused variable 'backRef'(×õââ8ñ…Š­„2
+X	cpp:S1117‚"6declaration shadows a variable in the global namespace(€®‰Ùøÿÿÿÿ8ó…Š­„2
+N	cpp:S5945"2Use "std::string" instead of a C-style char array.(¿öÏ…8â†Š­„2
+\	cpp:S5421"!Global variables should be const.(¿öÏ…J$5dfa7daa-3c18-4f84-bf62-e67ca3398ff1
+\	cpp:S5421"!Global variables should be const.(×ŒşƒJ$1427da8c-2c25-4b28-a044-7367b2fef32f
+\	cpp:S5421"!Global variables should be const.(ˆÈƒÑJ$f17292cd-1c3e-4729-b54d-f447f92516f8
+[	cpp:S5421"!Global variables should be const.(…·˜1J$1d0613af-2c7c-4f74-97a0-231339c64600
+\	cpp:S5421"!Global variables should be const.(ğĞ®´J$4f3c44e0-7b96-4b13-bfea-d39711976fac
+[	cpp:S5421"!Global variables should be const.(‰Øâ5J$7404770b-a371-41b2-be58-6dbc64935295
+\	cpp:S5421 "!Global variables should be const.(ŸŠ‡ïJ$2b12f1b4-560e-44e9-90ec-2b6b620f4256
+[	cpp:S5421!"!Global variables should be const.(õ¡…J$c68dc1fa-26a1-4b77-b3c2-ca93e06eb185
+a	cpp:S5421""!Global variables should be const.(ÕÌ™‡üÿÿÿÿJ$e2a1d706-fe75-4937-9b84-395f86beed21
+\	cpp:S5421#"!Global variables should be const.(˜¶ƒıJ$129497be-3dcc-4bd5-a373-a135830f98d2
+a	cpp:S5421$"!Global variables should be const.(ëİÇœÿÿÿÿÿJ$7260f75a-5a00-42fb-9bd2-034df45756f8
+\	cpp:S5421%"!Global variables should be const.(á¸ıJ$d7d8e0a0-54ed-40fd-b284-68847470c019
+a	cpp:S5421&"!Global variables should be const.(ºÏØğøÿÿÿÿJ$9d05f25d-a541-4c69-9eb9-fd87f210bd24
+j	cpp:S5421'"/Global pointers should be const at every level.(€ËËœJ$808b2fff-0505-4419-b1bb-7ebb16b35285
+\	cpp:S5421("!Global variables should be const.(ıÈÓJ$7c81c175-4f1f-4896-b755-1509b8f7b147
+\	cpp:S5421)"!Global variables should be const.(·³ÈèJ$a5befb5e-5950-4fe4-bd8e-290d376e806d
+N	cpp:S5945*"2Use "std::string" instead of a C-style char array.(ö¡„‰8ê†Š­„2
+=	cpp:S5421*"!Global variables should be const.(ö¡„‰8ë†Š­„2
+B	cpp:S5421B"!Global variables should be const.(Ú“Óßüÿÿÿÿ8ë†Š­„2
+=	cpp:S5421E"!Global variables should be const.(ÅÖÌğ8ì†Š­„2
+=	cpp:S5421G"!Global variables should be const.(ÊĞ®î8í†Š­„2
+B	cpp:S5421I"!Global variables should be const.(Öı¶Êøÿÿÿÿ8í†Š­„2
+Y	cpp:S5945M"=Use "std::array" or "std::vector" instead of a C-style array.(Ó¾ƒ’8î†Š­„2
+=	cpp:S5421M"!Global variables should be const.(Ó¾ƒ’8ï†Š­„2
+p	cpp:S6495d"T"std::print" or "std::format" should be used instead of standard output manipulators(ª±æ™8ï†Š­„2
+B	cpp:S6197o"&Replace with "std::ranges::transform".( ±Û­8ğ†Š­„2
+g	cpp:S5566p"KChange this raw for-loop to a range for-loop or an "std::ranges::for_each".(°Éûò8ğ†Š­„2
+c	cpp:S1110t"#Remove these redundant parentheses.(º†·šøÿÿÿÿJ$28e394db-d0f9-4cb6-880c-8ff4600323b6
+_	cpp:S5945Š"=Use "std::array" or "std::vector" instead of a C-style array.(€Å‚¥ÿÿÿÿÿ8ñ†Š­„2
+v	cpp:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 28 to the 25 allowed.(€Å‚¥ÿÿÿÿÿ8ó†Š­„2
+^	cpp:S1238Š"<Pass expensive to copy object "label" by reference to const.(€Å‚¥ÿÿÿÿÿ8ó†Š­„2
+|cpp:S995Š"[Make the type of this parameter a pointer-to-const. The current type of "last" is "char *".(€Å‚¥ÿÿÿÿÿ8ô†Š­„2
+?	cpp:S2738å"""catch" a specific exception type.(¯ÒÄ¹8ô†Š­„2
+E	cpp:S1110Ú"#Remove these redundant parentheses.(ŸãÕ©ıÿÿÿÿ8‹‡Š­„2
+q	cpp:S3776£"URefactor this function to reduce its Cognitive Complexity from 157 to the 25 allowed.( ·Ç"8¥‡Š­„2
+hcpp:S134Æ"MRefactor this code to not nest more than 3 if|for|do|while|switch statements.(Ê¾…B8¦‡Š­„2
+r	cpp:S1172£"VRemove the unused parameter "size", make it unnamed, or declare it "[[maybe_unused]]".( ·Ç"8§‡Š­„2
+q	cpp:S1172£"URemove the unused parameter "arg", make it unnamed, or declare it "[[maybe_unused]]".( ·Ç"8§‡Š­„2
+ucpp:S995£"ZMake the type of this parameter a pointer-to-const. The current type of "arg" is "char *".( ·Ç"8§‡Š­„2
+?	cpp:S2738û"""catch" a specific exception type.(¯ÒÄ¹8«‡Š­„2
+‡	cpp:S5350¯"jMake the type of this variable a pointer-to-const. The current type of "symbol" is "struct symbolEntry *".(ñÌ½á8®‡Š­„2
+S	cpp:S1066¼"1Merge this "if" statement with the enclosing one.(•‡¸Èúÿÿÿÿ8®‡Š­„2
+x	cpp:S5945¦"=Use "std::array" or "std::vector" instead of a C-style array.(ôŠè}J$bb55d93c-7c25-414c-89db-dcee16ece7a1
+n	cpp:S5945§"2Use "std::string" instead of a C-style char array.(ş…¸¸J$969731af-fc77-4788-aed9-f6476bdd46d3
+n	cpp:S5945¨"2Use "std::string" instead of a C-style char array.(¦½ÓìJ$d68e1639-a06a-460c-8788-ee257169231f
+O	cpp:S5945©"2Use "std::string" instead of a C-style char array.(¿¸÷‘8¹‡Š­„2
+E	cpp:S1110¼"#Remove these redundant parentheses.(‹¦àÆûÿÿÿÿ8Ö‡Š­„2
+E	cpp:S1110à"#Remove these redundant parentheses.(ù¸“ÿÿÿÿÿ8ø‡Š­„2
+@	cpp:S1110ª"#Remove these redundant parentheses.(Ø§Öú8ŒˆŠ­„2
+E	cpp:S1110ş"#Remove these redundant parentheses.(Ó²óÅÿÿÿÿÿ8¯ˆŠ­„2
+O	cpp:S5945„"2Use "std::string" instead of a C-style char array.(ÌÀÒ‰8°ˆŠ­„2
+:cpp:S125‰"Remove the commented out code.(¾ù‡Ÿ8·ÔŠ­„2

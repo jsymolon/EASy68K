@@ -5,6 +5,7 @@
  *      Author: jsymolon
  */
 
+#include <algorithm>
 #include "../include/Properties.h"
 #include <iostream>
 #include <fstream>

@@ -1,0 +1,13 @@
+
+a	cpp:S5827%"'Replace the redundant type with "auto".(Ï÷í	J$e1a01552-9dc8-4026-8ec7-0e696c46aecc
+X	cpp:S61656"<Replace this erase-remove idiom with a "std::erase_if" call.(ÀˇÄœ8ùˆÉ≠Ñ2
+B	cpp:S61976"&Replace with "std::ranges::remove_if".(ÀˇÄœ8ûˆÉ≠Ñ2
+J	cpp:S5817E")This function should be declared "const".(ùòˆ·¯ˇˇˇˇ8°ˆÉ≠Ñ2
+ñcpp:S108F"\Fill this compound statement, remove it, or add a nested comment explaining why it is empty.(Å¢€˛J$0dea90ca-e6e0-47c6-bf53-d2ff9d286e1f
+E	cpp:S5817L")This function should be declared "const".(ˆ≥ˇ≈8¢ˆÉ≠Ñ2
+u	cpp:S1238L":Pass expensive to copy object "key" by reference to const.(ˆ≥ˇ≈J$0f415b3b-e052-4d5b-acc9-ec2dd60034ab
+ê	cpp:S1172L"URemove the unused parameter "key", make it unnamed, or declare it "[[maybe_unused]]".(ˆ≥ˇ≈J$780d529f-f8a0-47ba-85dc-2f91d2c81e54
+c	cpp:S1110Q"#Remove these redundant parentheses.(¶¶íÿ˚ˇˇˇˇJ$a983bfcf-847a-4653-a5b5-d671f44366d8
+t	cpp:S1238U":Pass expensive to copy object "key" by reference to const.(ˆ≤ùmJ$dbea1579-02e1-41b7-b2f9-dfac035e8ffc
+Xcpp:S125"Remove the commented out code.(øÎ˚®J$e58cf335-1b49-4f1e-bf0f-c8b72eb3763e
+]cpp:S125M"Remove the commented out code.(»¶£â˛ˇˇˇˇJ$76c63c29-fdbe-456d-b5df-704021dc6ac1
